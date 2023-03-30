@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a frontend developer with a passion for building cutting-edge applications using the latest technologies. I'm particularly interested in Web3, DeFi, NFTs, and smart contracts, and I'm currently learning Solidity to further my skills in this area.
 
 <!--
 **JyteCeo/JyteCeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
