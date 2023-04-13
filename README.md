@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm a frontend developer with a passion for building cutting-edge applications using the latest technologies. I'm particularly interested in Web3, DeFi, NFTs, and smart contracts, and I'm currently learning Solidity to further my skills in this area.
 
+
+[![](https://visitcount.itsvg.in/api?id=JyteCeo&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JyteCeo&label=Profile%20Views&color=2&icon=5&pretty=false" />
+</a>
 <!--
 **JyteCeo/JyteCeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
